@@ -1,0 +1,4 @@
+Only contains '1' and '0'
+
+Need help for generate wordlist with 'cruch'?
+follow this link >> bit.ly/crackPasswords

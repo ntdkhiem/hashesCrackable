@@ -1,0 +1,4 @@
+Contains digits made from 0 to 9 and 6 chars long
+
+Need help for generate wordlist with 'cruch'?
+follow this link >> bit.ly/crackPasswords

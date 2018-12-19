@@ -1,0 +1,4 @@
+No hint here... maybe some default password?
+
+Need help for generate wordlist with 'cruch'?
+follow this link >> bit.ly/crackPasswords
