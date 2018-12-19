@@ -6,7 +6,7 @@ The program encrypted all of his files including documents, pictures and file sy
 
 The program then demands for a ransom payments with over $1,000 for the decryption key (he knows 0.01% sure that the key will deliver before the time ends).
 
-Mr. Marquez close friend again sends an email that contains a zip file (to kevin's Iphone) with a message:
+Mr. Marques close friend again sends an email that contains a zip file (to kevin's Iphone) with a message:
 	"This zip file contains a decryption key but this is not an esay piece of food to bite
 	 The gate-keeper leveled up with 6 HP (health points) and uses digits as his soul"
 

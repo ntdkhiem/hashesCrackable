@@ -1,4 +1,20 @@
-No hint here... maybe some default password?
+WannaCry ransomware attacks finally over when the decryption key that Kevin received was distributed across wordwide. 
+Why WannaCry targeted Kevin ? while most of similar ransomware programs targets big companies to get more profits ?
+However, the real question is: Who is Mr. Marques close friend who sent the decryption key without asking for money in return ? and how did he have the secret file to send to Mr. Marques?
+
+* THERE IS NO HINT HERE. PERHAPS SOME random default password?*
+
+MISSION:
+	crack into Mr. Marques close friend's system to reveal his identity
+
+
+
+
+
+
+
+
+
 
 Need help for generate wordlist with 'cruch'?
 follow this link >> bit.ly/crackPasswords
