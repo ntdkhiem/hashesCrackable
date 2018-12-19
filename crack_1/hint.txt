@@ -1,4 +1,25 @@
-Only contains '1' and '0'
+Mr. Marquez received a mysterious zip file sent by a close friend via email. The person discloses the zip file contains an important message that he should read immediately.
+However, Mr. Marquez could not open the zip file since the gate-keeper (the password) stopped him from entering. 
+The communication was disconnected when his friend tries to reveal the password.
+Mr. Marquez quickly jogged down some hints during the conversation:
+	The gate-keeper made from binary numbers
+	His HP (health point) only have 4 points
+
+Now its up to Mr. Marquez to crack this file because perhaps there is another person who cut their conversation, tries to read this secret message!!
+Mr. Marquez wanted you to help him crack this zip file with all of the hints that he got.
+
+MISSION: 
+	Crack the zip file before the hacker!!
+
+
+
+
+
+
+
+
+
+
 
 Need help for generate wordlist with 'cruch'?
 follow this link >> bit.ly/crackPasswords

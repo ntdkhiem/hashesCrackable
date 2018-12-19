@@ -1,4 +1,26 @@
 Contains digits made from 0 to 9 and 6 chars long
 
+Kevin's laptop had been encrypted by a ransomware worm called WannaCry (https://en.wikipedia.org/wiki/WannaCry_ransomware_attack). 
+
+The program encrypted all of his files including documents, pictures and file system (important files which required if you want to restore your backup). 
+
+The program then demands for a ransom payments with over $1,000 for the decryption key (he knows 0.01% sure that the key will deliver before the time ends).
+
+Mr. Marquez close friend again sends an email that contains a zip file (to kevin's Iphone) with a message:
+	"This zip file contains a decryption key but this is not an esay piece of food to bite
+	 The gate-keeper leveled up with 6 HP (health points) and uses digits as his soul"
+
+(He should stop playing around with these kind of game when a person is in a threaten situation)
+
+The man intentionally cut the connection and left Kevin with frustration and rage.
+
+Since Kevin is an idiot who randomly click a program and run without knowing its intention, he wants you to help crack this zip file and upload the key to Slack to help stop this ransomware attack.
+
+MISSION:
+	Crack this zip file before the waiting time run out (there is no counting time but treat this as a real mission)
+
+
+
+
 Need help for generate wordlist with 'cruch'?
 follow this link >> bit.ly/crackPasswords
